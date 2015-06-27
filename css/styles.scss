@@ -1,0 +1,11 @@
+.date, .add {
+	float: right;
+	margin: 5px 0;
+}
+tfoot tr td {
+	font-weight: bold;
+}
+tbody tr:hover {
+	background: darkgrey;
+	cursor: default;
+}
